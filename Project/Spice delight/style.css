@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://spicedelightprudhoe.co.uk/wp-content/uploads/2020/10/Curry-5.jpg");
+   color: rgb(241, 248, 242);
+   font-size: 30px;
+   padding: 20px;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+  table,th,td:hover{
+    cursor: pointer;
+
+  }
+
+  h1{
+    color: crimson;
+    text-align: center;
+  }
+
+  
+  th ,td:hover{
+    background-color: grey;
+  }
